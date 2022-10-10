@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T04:03:57.111Z" agent="5.0 (Windows)" etag="JDHCO7vhpbYEuw4LQ2vT" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T04:05:32.115Z" agent="5.0 (Windows)" etag="Mve9DXlzheR6YPoBFVuK" version="20.4.0" type="github">
   <diagram id="lvOmDgzRvjtnipGTjZTB" name="Page-1">
     <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,13 +126,7 @@
             <mxPoint x="350" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eb6TFfp-bG-CCK0Az0Hd-7" value="Yash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="110" y="335" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eb6TFfp-bG-CCK0Az0Hd-8" value="Kishan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="700" y="335" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Vucr46rVdtPYaVrwE5qU-1" value="&lt;div&gt;Register&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;verticalAlign=middle;spacing=0;" vertex="1" parent="1">
+        <mxCell id="Vucr46rVdtPYaVrwE5qU-1" value="&lt;div&gt;Register&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;verticalAlign=middle;spacing=0;" parent="1" vertex="1">
           <mxGeometry x="55" y="70" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
